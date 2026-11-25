@@ -1,0 +1,20 @@
+{
+  "records": 21245,
+  "unique_firms": 3377,
+  "duplicate_keys": 0,
+  "missing_required_values": 0,
+  "probability_range_errors": 0,
+  "threshold_mismatches": 0,
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "horizons": [
+    1,
+    2
+  ],
+  "note": "Wide archive has one shared outcome per row. Original pre-join source alignment cannot be re-audited."
+}

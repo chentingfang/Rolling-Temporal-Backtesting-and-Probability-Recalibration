@@ -1,0 +1,129 @@
+﻿horizon,year,model,q,k,same_membership,same_order,symmetric_difference,raw_events,updated_events
+1,2021,Logistic,0.01,21,True,True,0,7,7
+1,2021,Logistic,0.02,41,True,True,0,9,9
+1,2021,Logistic,0.05,102,True,True,0,17,17
+1,2021,Logistic,0.1,203,True,True,0,23,23
+1,2022,Logistic,0.01,21,True,True,0,7,7
+1,2022,Logistic,0.02,41,True,True,0,9,9
+1,2022,Logistic,0.05,102,True,True,0,12,12
+1,2022,Logistic,0.1,204,True,True,0,12,12
+1,2023,Logistic,0.01,23,True,True,0,8,8
+1,2023,Logistic,0.02,46,True,True,0,9,9
+1,2023,Logistic,0.05,115,True,True,0,11,11
+1,2023,Logistic,0.1,230,True,True,0,13,13
+1,2024,Logistic,0.01,26,True,True,0,6,6
+1,2024,Logistic,0.02,52,True,True,0,9,9
+1,2024,Logistic,0.05,130,True,True,0,11,11
+1,2024,Logistic,0.1,260,True,True,0,12,12
+1,2021,SVM,0.01,21,True,True,0,7,7
+1,2021,SVM,0.02,41,True,True,0,11,11
+1,2021,SVM,0.05,102,True,True,0,16,16
+1,2021,SVM,0.1,203,True,True,0,20,20
+1,2022,SVM,0.01,21,True,True,0,8,8
+1,2022,SVM,0.02,41,True,True,0,9,9
+1,2022,SVM,0.05,102,True,True,0,10,10
+1,2022,SVM,0.1,204,True,True,0,12,12
+1,2023,SVM,0.01,23,True,True,0,6,6
+1,2023,SVM,0.02,46,True,True,0,9,9
+1,2023,SVM,0.05,115,True,True,0,11,11
+1,2023,SVM,0.1,230,True,True,0,11,11
+1,2024,SVM,0.01,26,True,True,0,4,4
+1,2024,SVM,0.02,52,True,True,0,5,5
+1,2024,SVM,0.05,130,True,True,0,6,6
+1,2024,SVM,0.1,260,True,True,0,8,8
+1,2021,Random forest,0.01,21,True,True,0,11,11
+1,2021,Random forest,0.02,41,True,True,0,13,13
+1,2021,Random forest,0.05,102,True,True,0,18,18
+1,2021,Random forest,0.1,203,True,True,0,22,22
+1,2022,Random forest,0.01,21,True,True,0,7,7
+1,2022,Random forest,0.02,41,True,True,0,9,9
+1,2022,Random forest,0.05,102,True,True,0,11,11
+1,2022,Random forest,0.1,204,True,True,0,14,14
+1,2023,Random forest,0.01,23,True,True,0,9,9
+1,2023,Random forest,0.02,46,True,True,0,9,9
+1,2023,Random forest,0.05,115,True,True,0,10,10
+1,2023,Random forest,0.1,230,True,True,0,13,13
+1,2024,Random forest,0.01,26,True,True,0,7,7
+1,2024,Random forest,0.02,52,True,True,0,7,7
+1,2024,Random forest,0.05,130,True,True,0,11,11
+1,2024,Random forest,0.1,260,True,True,0,13,13
+1,2021,XGBoost,0.01,21,True,True,0,10,10
+1,2021,XGBoost,0.02,41,True,True,0,10,10
+1,2021,XGBoost,0.05,102,True,True,0,20,20
+1,2021,XGBoost,0.1,203,True,True,0,23,23
+1,2022,XGBoost,0.01,21,True,True,0,8,8
+1,2022,XGBoost,0.02,41,True,True,0,9,9
+1,2022,XGBoost,0.05,102,True,True,0,11,11
+1,2022,XGBoost,0.1,204,True,True,0,14,14
+1,2023,XGBoost,0.01,23,True,True,0,7,7
+1,2023,XGBoost,0.02,46,True,True,0,8,8
+1,2023,XGBoost,0.05,115,True,True,0,10,10
+1,2023,XGBoost,0.1,230,True,True,0,13,13
+1,2024,XGBoost,0.01,26,True,True,0,7,7
+1,2024,XGBoost,0.02,52,True,True,0,8,8
+1,2024,XGBoost,0.05,130,True,True,0,11,11
+1,2024,XGBoost,0.1,260,True,True,0,13,13
+2,2021,Logistic,0.01,20,True,True,0,3,3
+2,2021,Logistic,0.02,39,True,True,0,5,5
+2,2021,Logistic,0.05,97,True,True,0,11,11
+2,2021,Logistic,0.1,194,True,True,0,12,12
+2,2022,Logistic,0.01,20,True,True,0,4,4
+2,2022,Logistic,0.02,40,True,True,0,5,5
+2,2022,Logistic,0.05,99,True,True,0,10,10
+2,2022,Logistic,0.1,197,True,True,0,12,12
+2,2023,Logistic,0.01,19,True,True,0,5,5
+2,2023,Logistic,0.02,38,True,True,0,6,6
+2,2023,Logistic,0.05,95,True,True,0,8,8
+2,2023,Logistic,0.1,189,True,True,0,11,11
+2,2024,Logistic,0.01,23,True,True,0,2,2
+2,2024,Logistic,0.02,45,True,True,0,6,6
+2,2024,Logistic,0.05,112,True,True,0,8,8
+2,2024,Logistic,0.1,223,True,True,0,12,12
+2,2021,SVM,0.01,20,True,True,0,3,3
+2,2021,SVM,0.02,39,True,True,0,5,5
+2,2021,SVM,0.05,97,True,True,0,10,10
+2,2021,SVM,0.1,194,True,True,0,12,12
+2,2022,SVM,0.01,20,True,True,0,5,5
+2,2022,SVM,0.02,40,True,True,0,5,5
+2,2022,SVM,0.05,99,True,True,0,9,9
+2,2022,SVM,0.1,197,True,True,0,11,11
+2,2023,SVM,0.01,19,True,True,0,4,4
+2,2023,SVM,0.02,38,True,True,0,6,6
+2,2023,SVM,0.05,95,True,True,0,7,7
+2,2023,SVM,0.1,189,True,True,0,7,7
+2,2024,SVM,0.01,23,True,True,0,1,1
+2,2024,SVM,0.02,45,True,True,0,2,2
+2,2024,SVM,0.05,112,True,True,0,5,5
+2,2024,SVM,0.1,223,True,True,0,7,7
+2,2021,Random forest,0.01,20,True,True,0,5,5
+2,2021,Random forest,0.02,39,True,True,0,7,7
+2,2021,Random forest,0.05,97,True,True,0,12,12
+2,2021,Random forest,0.1,194,True,True,0,15,15
+2,2022,Random forest,0.01,20,True,True,0,2,2
+2,2022,Random forest,0.02,40,True,True,0,3,3
+2,2022,Random forest,0.05,99,True,True,0,8,8
+2,2022,Random forest,0.1,197,True,True,0,13,13
+2,2023,Random forest,0.01,19,True,True,0,6,6
+2,2023,Random forest,0.02,38,True,True,0,6,6
+2,2023,Random forest,0.05,95,True,True,0,8,8
+2,2023,Random forest,0.1,189,True,True,0,10,10
+2,2024,Random forest,0.01,23,True,True,0,3,3
+2,2024,Random forest,0.02,45,True,True,0,5,5
+2,2024,Random forest,0.05,112,True,True,0,8,8
+2,2024,Random forest,0.1,223,True,True,0,10,10
+2,2021,XGBoost,0.01,20,True,True,0,4,4
+2,2021,XGBoost,0.02,39,True,True,0,7,7
+2,2021,XGBoost,0.05,97,True,True,0,10,10
+2,2021,XGBoost,0.1,194,True,True,0,15,15
+2,2022,XGBoost,0.01,20,True,True,0,3,3
+2,2022,XGBoost,0.02,40,True,True,0,5,5
+2,2022,XGBoost,0.05,99,True,True,0,10,10
+2,2022,XGBoost,0.1,197,True,True,0,13,13
+2,2023,XGBoost,0.01,19,True,True,0,5,5
+2,2023,XGBoost,0.02,38,True,True,0,6,6
+2,2023,XGBoost,0.05,95,True,True,0,9,9
+2,2023,XGBoost,0.1,189,True,True,0,11,11
+2,2024,XGBoost,0.01,23,True,True,0,4,4
+2,2024,XGBoost,0.02,45,True,True,0,7,7
+2,2024,XGBoost,0.05,112,True,True,0,7,7
+2,2024,XGBoost,0.1,223,True,True,0,8,8

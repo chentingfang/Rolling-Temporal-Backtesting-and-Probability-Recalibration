@@ -1,0 +1,17 @@
+﻿horizon,model,metric,mean_improvement,ci_low,ci_high,bootstrap_fraction_positive,replicates,seed,note
+1,Logistic,brier,0.000476208509366247,-7.54741848010966e-05,0.00104179441277086,0.9355,2000,20260818,Four target-year blocks; intercepts not refitted inside bootstrap; not firm-clustered.
+1,Logistic,log_loss,0.000551248011180998,-0.00349983272228711,0.00386752343121102,0.636,2000,20260818,Four target-year blocks; intercepts not refitted inside bootstrap; not firm-clustered.
+1,SVM,brier,9.28305940011949e-06,-9.0261087601429e-06,2.85667375485516e-05,0.817,2000,20260818,Four target-year blocks; intercepts not refitted inside bootstrap; not firm-clustered.
+1,SVM,log_loss,0.000798964975071981,-1.75809246263595e-05,0.00156413830283989,0.958,2000,20260818,Four target-year blocks; intercepts not refitted inside bootstrap; not firm-clustered.
+1,Random forest,brier,0.000215031672738236,-3.38928150462482e-05,0.00046395616052272,0.9405,2000,20260818,Four target-year blocks; intercepts not refitted inside bootstrap; not firm-clustered.
+1,Random forest,log_loss,0.00135065924808386,-5.35895621506972e-05,0.00275490805831842,0.9525,2000,20260818,Four target-year blocks; intercepts not refitted inside bootstrap; not firm-clustered.
+1,XGBoost,brier,0.0129993884499118,0.009170503684826,0.0168282732149975,1,2000,20260818,Four target-year blocks; intercepts not refitted inside bootstrap; not firm-clustered.
+1,XGBoost,log_loss,0.0986621102520923,0.0796088041178059,0.117715416386379,1,2000,20260818,Four target-year blocks; intercepts not refitted inside bootstrap; not firm-clustered.
+2,Logistic,brier,0.000679672847288716,0.000425683985204005,0.000933661709373426,1,2000,20260818,Four target-year blocks; intercepts not refitted inside bootstrap; not firm-clustered.
+2,Logistic,log_loss,0.00365210396588118,0.00159312523738329,0.00573536739757874,1,2000,20260818,Four target-year blocks; intercepts not refitted inside bootstrap; not firm-clustered.
+2,SVM,brier,-1.32772456636677e-05,-9.16287118849007e-05,6.50742205575653e-05,0.3015,2000,20260818,Four target-year blocks; intercepts not refitted inside bootstrap; not firm-clustered.
+2,SVM,log_loss,0.00034357640974364,-0.000884066735302769,0.00157121955479005,0.6875,2000,20260818,Four target-year blocks; intercepts not refitted inside bootstrap; not firm-clustered.
+2,Random forest,brier,0.000665721049942088,0.000467302030124471,0.000964048849115358,1,2000,20260818,Four target-year blocks; intercepts not refitted inside bootstrap; not firm-clustered.
+2,Random forest,log_loss,0.00259719256679942,0.000742135382380507,0.00439074656636741,0.998,2000,20260818,Four target-year blocks; intercepts not refitted inside bootstrap; not firm-clustered.
+2,XGBoost,brier,0.0163916920405814,0.0107374521995416,0.0210302812091545,1,2000,20260818,Four target-year blocks; intercepts not refitted inside bootstrap; not firm-clustered.
+2,XGBoost,log_loss,0.107439330178796,0.0793555169376775,0.128860831423755,1,2000,20260818,Four target-year blocks; intercepts not refitted inside bootstrap; not firm-clustered.

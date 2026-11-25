@@ -1,0 +1,6 @@
+﻿evaluation_year,history_years,role
+2020,none,baseline only
+2021,2020-2020,historical intercept update
+2022,2020-2021,historical intercept update
+2023,2020-2022,historical intercept update
+2024,2020-2023,historical intercept update
